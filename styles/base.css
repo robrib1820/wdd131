@@ -45,9 +45,8 @@ header h1 {
 /*Body content*/
 body {
     margin: 0;
-    max-width: auto;
     font-family: "Tinos", serif;
-    letter-spacing: 0.3;
+    letter-spacing: 0.3px;
    
 }
 #container {
