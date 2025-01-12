@@ -86,7 +86,7 @@ img {
 
 #photo {
     width: 750px;
-    background: url(/wdd131/images/back.jpg) no-repeat center center;
+    background: url(../images/back.jpg) no-repeat center center;
     background-size: cover;
 }
 
