@@ -76,6 +76,7 @@ img {
     margin-right: 10px;
 }
 
+
 .sameLayout {
     background-color: #000;
     color: white;
@@ -84,7 +85,9 @@ img {
 }
 
 #photo {
-    width: 650px;
+    width: 750px;
+    background: url(/wdd131/images/back.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 #photo::after {
