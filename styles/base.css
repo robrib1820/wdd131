@@ -69,13 +69,17 @@ body {
     background-color: #545757;
     color: white;
 }
-
-img {
+#photo2 {
+    float: left;
+    width: 60px;
+    margin: 3px 10px 3px;
+    padding: 3px;
+}
+#photo1 {
     float: left;
     width: 200px;
     margin-right: 10px;
 }
-
 
 .sameLayout {
     background-color: #000;
