@@ -38,6 +38,7 @@
     .navigation a:hover {
         background-color: #555;
         border-radius: 5px;
+        color: white;
     }   
 }
 
@@ -81,5 +82,6 @@
     .navigation a:hover {
         background-color: #555;
         border-radius: 5px;
+        color: white;
     }
 }
