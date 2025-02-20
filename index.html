@@ -32,7 +32,7 @@
     <div>
       <picture class="hero">
         <source srcset="./images/heroImageMedium.webp" media="(max-width: 590px)">
-        <img src="./images/heroImage.webp" alt="Hero Image" />
+        <img src="./images/heroImage.webp" alt="Hero Image" loading="lazy" />
       </picture>
     </div>
 
@@ -49,8 +49,10 @@
 
     <section class="inviteContainer">
       <div class="invitePhoto">
-        
-        <img src="./images/writingNotes.jpg" alt="trainer" loading="lazy"/>
+        <picture>
+          <source srcset="./images/writingNotesSmall.webp" media="(max-width: 590px)">
+          <img src="./images/writingNotes.webp" alt="trainer" loading="lazy"/>
+        </picture>
       </div>
       <div class="inviteText">
         <div>
